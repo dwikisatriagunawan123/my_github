@@ -1,0 +1,1 @@
+print("Dwiki satria gunawan")
